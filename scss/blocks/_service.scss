@@ -54,14 +54,12 @@
    
 
         &__block{
-            position: relative;
-            z-index: 1;
-            left: -300px;
             margin: 0 auto;
             margin-bottom: 100px;        
         }
     
         &__list{
+            // max-width: 223px;
             display: flex;
             align-items: center;
             margin: 0 auto;
@@ -69,7 +67,6 @@
         }
     
         &__item{
-            max-width: 223px;
             margin: 0 auto;
             margin-right: 30px;
         }
