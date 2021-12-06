@@ -51,13 +51,8 @@
         margin: 0 auto;
     
         &__container{
-            position: relative;
-            z-index: 1;
-            left: 150px;
             display: flex;
             flex-direction: column-reverse;
-            align-items: center;
-            margin: 0 auto;
             margin-bottom: 126px;
         }
     
@@ -74,9 +69,6 @@
         }
     
         &__text{
-            position: relative;
-            z-index: 1;
-            left: -120px;
             margin: 0 auto;
             text-align: center;
             width: 100%; 
